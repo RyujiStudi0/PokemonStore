@@ -1,6 +1,1 @@
 SHOP	=	0xcB1ab5bf11D352962a2F66Be0c7aC49407b6154E
-
-วิธีการลง node
-1. cd ไฟล์ที่เราอยู่ npm install yarn
-2. npm install -g serve
-3. npm install -g web3
